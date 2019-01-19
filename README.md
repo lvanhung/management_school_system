@@ -19,4 +19,5 @@ curl --request GET \
          --data '{"user_id": 1, "class_id": 1, "school_id": 1 }'
 ```
 
-The system will be generated a excel file at `public/csv`. Then change `user_id` depend on the role the system will be geneated different type of report. 
+The system will be generated a excel file at `public/csv`. Then please change `user_id` in `curl` depend on the role the system will be geneated different type of report. 
+I generated `csv` files at public/csv for all cases as example for references
