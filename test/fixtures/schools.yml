@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  parent_id: 1
+  payment_type: MyString
+  owner_id: 1
+
+two:
+  name: MyString
+  parent_id: 1
+  payment_type: MyString
+  owner_id: 1
